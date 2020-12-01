@@ -1,1 +1,1 @@
-# tindog_website
+# tindo_website
